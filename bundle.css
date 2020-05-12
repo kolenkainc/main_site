@@ -1,6 +1,8 @@
 .image-content.svelte-lt6udx{display:flex;align-items:center;justify-content:center}.image-content.svelte-lt6udx .bg-image.svelte-lt6udx{background-image:url(ef829c42af62cf02b07e57b09ffef1ed.png);background-size:contain;background-repeat:no-repeat;height:103px;width:515px}
-.title.svelte-1epo06b{font-family:'AcademyC';height:50vh}.text.svelte-1epo06b{position:relative;top:50%;transform:translateY(-50%);font-size:7.4vw}
-.container.svelte-12ppjri{background-color:#e9ebec;display:flex;flex-direction:column;flex:1 1 100%;justify-content:flex-start;align-items:center;min-height:100vh}
+.title.svelte-dd0mo3{height:50vh}.text.svelte-dd0mo3{position:relative;top:50%;transform:translateY(-50%);font-size:7.4vw}
+.card.svelte-1ot5sb7{height:400px;width:100%}.image-content.svelte-1ot5sb7{display:flex;align-items:center;justify-content:center}.image-content.svelte-1ot5sb7 .bg-image.svelte-1ot5sb7{background-image:url(08ca2114362eed0b60263fb02899d3e2.png);background-size:contain;background-repeat:no-repeat}
+.cards.svelte-1bfybwt{display:flex;width:100%}
+.container.svelte-e1g8ba{background-color:#e9ebec;display:flex;flex-direction:column;flex:1 1 100%;justify-content:flex-start;align-items:center;min-height:100vh;font-family:'AcademyC'}
 html {
   box-sizing: border-box;
   font-size: 16px;
