@@ -1,17 +1,16 @@
-.image-content.svelte-lt6udx{display:flex;align-items:center;justify-content:center}.image-content.svelte-lt6udx .bg-image.svelte-lt6udx{background-image:url(ef829c42af62cf02b07e57b09ffef1ed.png);background-size:contain;background-repeat:no-repeat;height:103px;width:515px}
 .title.svelte-dd0mo3{height:50vh}.text.svelte-dd0mo3{position:relative;top:50%;transform:translateY(-50%);font-size:7.4vw}
-.card.svelte-1ot5sb7{height:400px;width:100%}.image-content.svelte-1ot5sb7{display:flex;align-items:center;justify-content:center}.image-content.svelte-1ot5sb7 .bg-image.svelte-1ot5sb7{background-image:url(08ca2114362eed0b60263fb02899d3e2.png);background-size:contain;background-repeat:no-repeat}
+.card.svelte-1ot5sb7.svelte-1ot5sb7{height:400px;width:100%}.image-content.svelte-1ot5sb7.svelte-1ot5sb7{display:flex;align-items:center;justify-content:center}.image-content.svelte-1ot5sb7 .bg-image.svelte-1ot5sb7{background-image:url(08ca2114362eed0b60263fb02899d3e2.png);background-size:contain;background-repeat:no-repeat}
 .cards.svelte-1bfybwt{display:flex;width:100%}
-.container.svelte-e1g8ba{background-color:#e9ebec;display:flex;flex-direction:column;flex:1 1 100%;justify-content:flex-start;align-items:center;min-height:100vh;font-family:'AcademyC'}
+@font-face{font-family:'Academy';src:url(af747454b8ee40e773dc4f481e12bfa4.svg) format("svg");src:url(8339a2b56c841a66ba27459e1378ee7b.ttf) format("truetype");font-weight:normal;font-style:normal}.container.svelte-1404dc2{font-family:Academy;background-color:#fafafa;display:flex;flex-direction:column;flex:1 1 100%;justify-content:flex-start;align-items:center;min-height:100vh}
 html {
-  box-sizing: border-box;
-  font-size: 16px;
+    box-sizing: border-box;
+    font-size: 16px;
 }
 
 *,
 *:before,
 *:after {
-  box-sizing: inherit;
+    box-sizing: inherit;
 }
 
 body,
@@ -24,25 +23,18 @@ h6,
 p,
 ol,
 ul {
-  margin: 0;
-  padding: 0;
-  font-weight: normal;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
 }
 
 ol,
 ul {
-  list-style: none;
+    list-style: none;
 }
 
 img {
-  max-width: 100%;
-  height: auto;
+    max-width: 100%;
+    height: auto;
 }
-
-@font-face {
-  font-family: 'AcademyC';
-    src: url('https://nomail.com.ua/files/eot/41c8139be5a5994c14674c7b32272306.eot?#iefix') format('embedded-opentype'),
-        url('https://nomail.com.ua/files/woff/41c8139be5a5994c14674c7b32272306.woff') format('woff'),
-        url('https://nomail.com.ua/files/woff2/41c8139be5a5994c14674c7b32272306.woff2') format('woff2');
-  }
 
