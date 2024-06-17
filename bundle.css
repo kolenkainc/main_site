@@ -1,0 +1,16 @@
+ @font-face {
+  font-family: Academy;
+  src: url('Academy.ttf');
+}
+
+.title {
+  height: 50vh;
+  font-family: Academy;
+}
+
+.text {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 7.4vw;
+}
