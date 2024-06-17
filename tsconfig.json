@@ -17,8 +17,6 @@
 		"strictNullChecks": true,
 		"strictFunctionTypes": true,
 		"forceConsistentCasingInFileNames": true,
-		"importsNotUsedAsValues": "error",
-		"preserveValueImports": true,
 		"isolatedModules": true,
 		"types": ["svelte", "jest", "nunjucks", "node"],
 		"paths": {

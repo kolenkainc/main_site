@@ -77,13 +77,15 @@ export default {
 		svelte({
 			preprocess: sveltePreprocess({
 				sourceMap: !production,
-				scss: { includePaths: ["app/**/*.scss"] },
 			}),
 			compilerOptions: {
 				// enable run-time checks when not in production
 				dev: !production,
 				customElement: true,
 			},
+      css: css => {
+        css.write("bundle.css");
+      },
 		}),
 		// we'll extract any component CSS out into
 		// a separate file - better for performance

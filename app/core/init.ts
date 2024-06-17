@@ -8,6 +8,7 @@
  * @license: MIT License
  *
  */
-import app from "@app/html/webcomponent.svelte";
+import app from "@app/html/hello.svelte";
+import "../styles/hello.css";
 
 export default app;
