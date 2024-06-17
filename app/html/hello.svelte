@@ -4,8 +4,10 @@
 </script>
 
 <div class="title">
-	<p>Привет</p>
-	<p>Мы — Коленка Инкорпорейтед</p>
+	<div class="text">
+		<p>Привет</p>
+		<p>Мы — Коленка Инкорпорейтед</p>
+	</div>
 </div>
 
 <style lang="css">
